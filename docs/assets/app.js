@@ -72,14 +72,28 @@
   (function fixCanvasForHiDPI() {
     const ui = pageFlip.ui;
     if (!ui || typeof ui.resizeCanvas !== "function") return;
+    // Cap at 2x: iPhones report a devicePixelRatio of 3, and a naive 3x
+    // backing store (9x the pixel count of a 1x canvas) on a 150-plus page
+    // book was enough to exhaust Mobile Safari's per-tab memory budget and
+    // crash the page ("A problem repeatedly occurred") once flipping
+    // started re-triggering resizes. 2x is still fully sharp at this page
+    // size and keeps memory in check.
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
     ui.resizeCanvas = function () {
       const canvas = ui.getCanvas();
       const style = getComputedStyle(canvas);
       const cssWidth = parseInt(style.width, 10) || canvas.clientWidth || 1;
       const cssHeight = parseInt(style.height, 10) || canvas.clientHeight || 1;
-      const dpr = window.devicePixelRatio || 1;
-      canvas.width = Math.max(1, Math.round(cssWidth * dpr));
-      canvas.height = Math.max(1, Math.round(cssHeight * dpr));
+      const targetWidth = Math.max(1, Math.round(cssWidth * dpr));
+      const targetHeight = Math.max(1, Math.round(cssHeight * dpr));
+      // Setting canvas.width/height -- even to its current value -- clears
+      // and reallocates the whole backing store. StPageFlip's own resize
+      // listener can fire repeatedly in quick succession (e.g. Mobile
+      // Safari's chrome bar resizing the viewport while a page is being
+      // dragged), so skip the reallocation entirely when nothing changed.
+      if (canvas.width === targetWidth && canvas.height === targetHeight) return;
+      canvas.width = targetWidth;
+      canvas.height = targetHeight;
       const ctx = canvas.getContext("2d");
       if (ctx) ctx.scale(dpr, dpr);
     };
