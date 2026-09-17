@@ -42,25 +42,29 @@ body {
   min-height: 100%;
 }
 
+html {
+  /* iOS 26 Safari dropped <meta name="theme-color"> and now tints its own
+     toolbar/tab-bar from the page's actual background-color instead --
+     specifically background-color, not a background-image gradient (see
+     body below). Setting it here too covers the sliver Safari can sample
+     before body's own background has painted. */
+  background-color: var(--surface-dark);
+}
+
 body {
   font-family: "Crimson Text", Georgia, serif;
   color: var(--cream);
-  background:
+  background-color: var(--surface-dark);
+  background-image:
     radial-gradient(ellipse 90% 60% at 50% 38%, rgba(200, 210, 230, 0.08), transparent 60%),
     linear-gradient(180deg, var(--surface-dark) 0%, var(--surface) 55%, var(--surface-dark) 100%);
-  /* One px taller than the viewport (and *not* overflow:hidden) on purpose --
-     Mobile Safari only shrinks its address bar in response to an actual
-     scroll, and a page with no scrollable overflow at all never gives it
-     one, so the bar stays permanently expanded. This gives the page.js
-     scroll nudge somewhere to go; overscroll-behavior keeps that sliver
-     from turning into a visible rubber-band bounce. */
-  min-height: calc(100dvh + 1px);
+  height: 100dvh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 10px;
-  overflow-x: hidden;
-  overscroll-behavior-y: none;
+  overflow: hidden;
 }
 
 main {

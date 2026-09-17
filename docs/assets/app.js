@@ -178,14 +178,4 @@
     window.visualViewport.addEventListener("resize", updateZoomState);
     window.visualViewport.addEventListener("scroll", updateZoomState);
   }
-
-  // Mobile Safari's address bar only collapses in response to a real
-  // scroll; the page is deliberately given one extra px of scrollable
-  // room (see style.css) purely so this nudge has somewhere to go.
-  function nudgeMobileSafariChrome() {
-    if (window.scrollY < 1) window.scrollTo(0, 1);
-  }
-  window.addEventListener("load", nudgeMobileSafariChrome);
-  window.addEventListener("orientationchange", () => setTimeout(nudgeMobileSafariChrome, 300));
-  nudgeMobileSafariChrome();
 })();
