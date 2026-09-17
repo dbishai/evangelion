@@ -185,11 +185,7 @@
   function nudgeMobileSafariChrome() {
     if (window.scrollY < 1) window.scrollTo(0, 1);
   }
-  // A single nudge at the "load" event didn't reliably collapse Safari's
-  // chrome on-device -- try again a few times shortly after, in case the
-  // first attempt lands before Safari's own toolbar has finished its
-  // initial layout pass and is ready to respond to a scroll.
-  [0, 50, 200, 500, 1000].forEach((delay) => setTimeout(nudgeMobileSafariChrome, delay));
   window.addEventListener("load", nudgeMobileSafariChrome);
   window.addEventListener("orientationchange", () => setTimeout(nudgeMobileSafariChrome, 300));
+  nudgeMobileSafariChrome();
 })();
