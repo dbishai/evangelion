@@ -1,0 +1,349 @@
+@font-face {
+  font-family: "Crimson Text";
+  src: url("fonts/CrimsonText-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Crimson Text";
+  src: url("fonts/CrimsonText-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Crimson Text";
+  src: url("fonts/CrimsonText-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Crimson Text";
+  src: url("fonts/CrimsonText-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+:root {
+  --red: #a6192e;
+  --ink: #161616;
+  --cream: #fdfbf7;
+  --surface-dark: #101114;
+  --surface: #1c1e23;
+  --surface-light: #2a2d34;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: "Crimson Text", Georgia, serif;
+  color: var(--cream);
+  background:
+    radial-gradient(ellipse 90% 60% at 50% 38%, rgba(200, 210, 230, 0.08), transparent 60%),
+    linear-gradient(180deg, var(--surface-dark) 0%, var(--surface) 55%, var(--surface-dark) 100%);
+  height: 100dvh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  overflow: hidden;
+}
+
+main {
+  width: 100%;
+  max-width: 1500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  min-height: 0;
+  height: 100%;
+}
+
+.book-stage {
+  position: relative;
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  perspective: 2400px;
+}
+
+.book {
+  background: transparent;
+  filter: drop-shadow(0 30px 40px rgba(0, 0, 0, 0.55));
+}
+
+/* StPageFlip renders its own inner page divs -- style the page surface so a
+   loading/blank page still reads as manuscript paper, not a stark white
+   flash, before its SVG has painted. */
+.book :is(.page) {
+  background: var(--cream);
+}
+
+.nav-btn {
+  flex: 0 0 auto;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  background: linear-gradient(180deg, rgba(24, 16, 14, 0.55), rgba(24, 16, 14, 0.38));
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  backdrop-filter: blur(16px) saturate(180%);
+  box-shadow:
+    0 6px 18px rgba(0, 0, 0, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.2);
+  color: var(--cream);
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.nav-btn:hover {
+  background: linear-gradient(180deg, rgba(24, 16, 14, 0.68), rgba(24, 16, 14, 0.48));
+  transform: scale(1.06);
+}
+
+.nav-btn:active {
+  transform: scale(0.96);
+}
+
+.nav-btn:disabled {
+  opacity: 0.3;
+  cursor: default;
+  transform: none;
+}
+
+.controls {
+  position: fixed;
+  bottom: max(14px, env(safe-area-inset-bottom));
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: calc(100% - 24px);
+  max-width: 460px;
+  padding: 10px 18px;
+  border-radius: 999px;
+  background: linear-gradient(180deg, rgba(24, 16, 14, 0.58), rgba(24, 16, 14, 0.42));
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  box-shadow:
+    0 8px 28px rgba(0, 0, 0, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.28),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.2);
+}
+
+.page-jump {
+  flex: 0 0 auto;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  white-space: nowrap;
+}
+
+.page-jump .label {
+  color: rgba(253, 251, 247, 0.5);
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+}
+
+.page-jump input[type="number"] {
+  width: 3em;
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-align: center;
+  color: var(--cream);
+  background: rgba(0, 0, 0, 0.22);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 999px;
+  padding: 4px 4px;
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+.page-jump input[type="number"]::-webkit-outer-spin-button,
+.page-jump input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.page-jump input[type="number"]:focus {
+  outline: none;
+  border-color: rgba(242, 201, 160, 0.8);
+  background: rgba(0, 0, 0, 0.32);
+}
+
+.page-slider {
+  flex: 1;
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 22px;
+  margin: 0;
+  background: transparent;
+}
+
+.page-slider::-webkit-slider-runnable-track {
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.28);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.page-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  margin-top: -8px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(242, 201, 160, 0.75));
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.45), inset 0 1px 1px rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+}
+
+.page-slider::-moz-range-track {
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.28);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.page-slider::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(242, 201, 160, 0.75));
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.45);
+  cursor: pointer;
+}
+
+.loading {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%);
+  z-index: 5;
+  text-align: center;
+  font-style: italic;
+  color: rgba(253, 251, 247, 0.7);
+}
+
+.loading[hidden] {
+  display: none;
+}
+
+.gh-link {
+  position: fixed;
+  top: max(14px, env(safe-area-inset-top));
+  right: max(14px, env(safe-area-inset-right));
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  color: rgba(253, 251, 247, 0.9);
+  background: linear-gradient(180deg, rgba(24, 16, 14, 0.55), rgba(24, 16, 14, 0.38));
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  backdrop-filter: blur(16px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  box-shadow:
+    0 6px 18px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.28);
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.gh-link:hover {
+  color: #f2c9a0;
+  background: linear-gradient(180deg, rgba(24, 16, 14, 0.68), rgba(24, 16, 14, 0.48));
+}
+
+/* Small screens: the manuscript itself should fill the viewport, phone-app
+   style -- the book stage takes the whole screen, with a floating glass
+   pill overlay for page controls. */
+@media (max-width: 640px) {
+  body {
+    padding: 0;
+  }
+
+  main {
+    max-width: none;
+  }
+
+  .book-stage {
+    gap: 0;
+    perspective: 1400px;
+  }
+
+  .book {
+    filter: drop-shadow(0 14px 20px rgba(0, 0, 0, 0.55));
+  }
+
+  .nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 15;
+    width: 34px;
+    height: 34px;
+    font-size: 0.85rem;
+  }
+
+  .nav-prev {
+    left: 4px;
+  }
+
+  .nav-next {
+    right: 4px;
+  }
+
+  .nav-btn:hover {
+    transform: translateY(-50%) scale(1.06);
+  }
+
+  .nav-btn:active {
+    transform: translateY(-50%) scale(0.96);
+  }
+
+  .nav-btn:disabled {
+    transform: translateY(-50%);
+  }
+
+  .controls {
+    bottom: max(10px, env(safe-area-inset-bottom));
+    max-width: 400px;
+  }
+
+  .page-jump {
+    font-size: 0.8rem;
+    justify-content: center;
+  }
+}

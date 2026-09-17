@@ -11,6 +11,7 @@ wheels/
 
 # Build output (output/) and downloaded/derived caches (.cache/)
 *.pdf
+!docs/*.pdf
 offline_*.sqlite3
 .cache/
 
