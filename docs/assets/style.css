@@ -48,13 +48,19 @@ body {
   background:
     radial-gradient(ellipse 90% 60% at 50% 38%, rgba(200, 210, 230, 0.08), transparent 60%),
     linear-gradient(180deg, var(--surface-dark) 0%, var(--surface) 55%, var(--surface-dark) 100%);
-  height: 100dvh;
-  min-height: 100dvh;
+  /* One px taller than the viewport (and *not* overflow:hidden) on purpose --
+     Mobile Safari only shrinks its address bar in response to an actual
+     scroll, and a page with no scrollable overflow at all never gives it
+     one, so the bar stays permanently expanded. This gives the page.js
+     scroll nudge somewhere to go; overscroll-behavior keeps that sliver
+     from turning into a visible rubber-band bounce. */
+  min-height: calc(100dvh + 1px);
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 10px;
-  overflow: hidden;
+  overflow-x: hidden;
+  overscroll-behavior-y: none;
 }
 
 main {
