@@ -1,7 +1,7 @@
 # evangelion
 
 A generator for **The Divine and Sacred Gospel** — a print-friendly Coptic
-Orthodox Gospel lectionary booklet, typeset with red rubric headers, a
+Orthodox Gospel, typeset with red rubric headers, a
 restrained red/black line-art border, illuminated drop-cap Gospel incipits,
 and a Coptic cross motif throughout. Output is a single PDF, trimmed to
 24×34cm to fit inside a bound Gospel case.
