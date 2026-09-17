@@ -14,10 +14,27 @@
     return String(n).padStart(3, "0");
   }
 
-  function pageUrls() {
+  // StPageFlip's loadFromImages() is not lazy -- it does `new Image(); img.src
+  // = url` for every page in the array immediately, so passing all 148 real
+  // SVGs up front fetches and decodes the entire ~28MB book at once. Instead,
+  // only give it real URLs for a window of pages around the one currently
+  // shown; every other slot gets a tiny blank placeholder. As the reader
+  // flips, updateFromImages() swaps in a re-centered window, so only a
+  // bounded number of pages are ever resident in memory at a time.
+  const WINDOW_RADIUS = 8;
+  const RECENTER_THRESHOLD = 4;
+
+  const PLACEHOLDER_SVG =
+    "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 340'%3E%3Crect width='240' height='340' fill='%23fdfbf7'/%3E%3C/svg%3E";
+
+  function pageUrl(oneBasedIndex) {
+    return PAGE_PREFIX + pad(oneBasedIndex) + PAGE_SUFFIX;
+  }
+
+  function urlsForWindow(centerIndex) {
     const urls = [];
-    for (let i = 1; i <= PAGE_COUNT; i++) {
-      urls.push(PAGE_PREFIX + pad(i) + PAGE_SUFFIX);
+    for (let i = 0; i < PAGE_COUNT; i++) {
+      urls.push(Math.abs(i - centerIndex) <= WINDOW_RADIUS ? pageUrl(i + 1) : PLACEHOLDER_SVG);
     }
     return urls;
   }
@@ -61,7 +78,18 @@
     flippingTime: 700,
   });
 
-  pageFlip.loadFromImages(pageUrls());
+  let loadedCenter = 0;
+  pageFlip.loadFromImages(urlsForWindow(loadedCenter));
+
+  let recenterTimer = null;
+  function ensureWindowLoaded(centerIndex) {
+    if (Math.abs(centerIndex - loadedCenter) < RECENTER_THRESHOLD) return;
+    loadedCenter = centerIndex;
+    clearTimeout(recenterTimer);
+    recenterTimer = setTimeout(() => {
+      pageFlip.updateFromImages(urlsForWindow(loadedCenter));
+    }, 150);
+  }
 
   // StPageFlip renders pages onto a <canvas>, sized to plain CSS pixels
   // with no regard for devicePixelRatio -- on any HiDPI display the
@@ -115,6 +143,7 @@
 
   pageFlip.on("flip", (e) => {
     syncControls(e.data);
+    ensureWindowLoaded(e.data);
   });
 
   prevBtn.addEventListener("click", () => pageFlip.flipPrev());
