@@ -6,7 +6,7 @@ restrained red/black line-art border, illuminated drop-cap Gospel incipits,
 and a Coptic cross motif throughout. Output is a single PDF, trimmed to
 24×34cm to fit inside a bound Gospel case.
 
-**[Flip through the book &rarr;](https://evangelion.dbishai.com/)**
+**[Flip through the book &rarr;](https://dbishai.github.io/evangelion/)**
 &mdash; a page-by-page viewer of the Sundays edition (`docs/`, itself
 hostable as-is on GitHub Pages).
 
