@@ -1,0 +1,5442 @@
+{
+  "Apip|1": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Apip|10": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Apip|11": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Apip|12": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Apip|13": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Apip|14": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 1:1"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:1-2 & Psalm 132:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:14-23",
+      "psalm": "Psalm 112:1-2"
+    }
+  },
+  "Apip|15": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:1-3"
+    },
+    "matins": {
+      "gospel": "Luke 13:23-30",
+      "psalm": "Psalm 89:24 & Psalm 89:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:22-25",
+      "psalm": "Psalm 40:2-3"
+    }
+  },
+  "Apip|16": {
+    "liturgy": {
+      "gospel": "John 21:15-25",
+      "psalm": "Psalm 139:17-18"
+    },
+    "matins": {
+      "gospel": "John 1:1-17",
+      "psalm": "Psalm 45:1-2"
+    },
+    "vespers": {
+      "gospel": "John 15:7-16",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    }
+  },
+  "Apip|17": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Apip|18": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Apip|19": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Apip|2": {
+    "liturgy": {
+      "gospel": "Mark 1:1-11",
+      "psalm": "Psalm 96:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 10:17-30",
+      "psalm": "Psalm 105:1-3"
+    },
+    "vespers": {
+      "gospel": "Mark 6:6-13",
+      "psalm": "Psalm 40:9 & Psalm 40:2"
+    }
+  },
+  "Apip|20": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Apip|21": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "psalm": "Psalm 37:39-40"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 34:19-20"
+    }
+  },
+  "Apip|22": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Apip|23": {
+    "liturgy": {
+      "gospel": "Mark 10:35-45",
+      "psalm": "Psalm 78:5 & Psalm 135:5"
+    },
+    "matins": {
+      "gospel": "Matthew 4:18-22",
+      "psalm": "Psalm 146:1 & Psalm 146:5"
+    },
+    "vespers": {
+      "psalm": "Psalm 46:1 & Psalm 46:7"
+    }
+  },
+  "Apip|24": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Apip|25": {
+    "liturgy": {
+      "gospel": "Matthew 12:9-23",
+      "psalm": "Psalm 45:3-4"
+    },
+    "matins": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 8:5-13",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Apip|26": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Apip|27": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-22",
+      "psalm": "Psalm 34:17-18"
+    }
+  },
+  "Apip|28": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Apip|29": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Apip|3": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Apip|30": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Apip|4": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Apip|5": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Apip|6": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Apip|7": {
+    "liturgy": {
+      "gospel": "Mark 9:33-41",
+      "psalm": "Psalm 132:9-10 & Psalm 132:1-2"
+    },
+    "matins": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Luke 22:24-30",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Apip|8": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 1:1"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:1-2 & Psalm 132:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:14-23",
+      "psalm": "Psalm 112:1-2"
+    }
+  },
+  "Apip|9": {
+    "liturgy": {
+      "gospel": "Mark 1:1-11",
+      "psalm": "Psalm 96:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 10:17-30",
+      "psalm": "Psalm 105:1-3"
+    },
+    "vespers": {
+      "gospel": "Mark 6:6-13",
+      "psalm": "Psalm 40:9 & Psalm 40:2"
+    }
+  },
+  "Apip|First": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 89:7"
+    },
+    "matins": {
+      "gospel": "Matthew 28:1-20",
+      "psalm": "Psalm 31:23,19"
+    },
+    "vespers": {
+      "gospel": "Luke 9:1-6",
+      "psalm": "Psalm 20:6,9"
+    }
+  },
+  "Apip|Fourth": {
+    "liturgy": {
+      "gospel": "John 11:1-45",
+      "psalm": "Psalm 40:5,16"
+    },
+    "matins": {
+      "gospel": "John 20:1-18",
+      "psalm": "Psalm 86:12-13"
+    },
+    "vespers": {
+      "gospel": "Luke 7:1-10",
+      "psalm": "Psalm 59:10,17"
+    }
+  },
+  "Apip|Second": {
+    "liturgy": {
+      "gospel": "Matthew 18:1-9",
+      "psalm": "Psalm 119:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 16:2-8",
+      "psalm": "Psalm 41:1-2"
+    },
+    "vespers": {
+      "gospel": "Luke 16:1-18",
+      "psalm": "Psalm 128:1,5"
+    }
+  },
+  "Apip|Third": {
+    "liturgy": {
+      "gospel": "Luke 9:10-17",
+      "psalm": "Psalm 145:17-18"
+    },
+    "matins": {
+      "gospel": "Luke 24:1-12",
+      "psalm": "Psalm 134:1"
+    },
+    "vespers": {
+      "gospel": "Luke 14:7-15",
+      "psalm": "Psalm 52:9,8"
+    }
+  },
+  "Hathor|1": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Hathor|10": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Hathor|11": {
+    "liturgy": {
+      "gospel": "Luke 1:1-25",
+      "psalm": "Psalm 102:13 & Psalm 102:16-17"
+    },
+    "matins": {
+      "gospel": "Mark 12:41-44",
+      "psalm": "Psalm 102:19-21"
+    },
+    "vespers": {
+      "gospel": "Mark 14:3-9",
+      "psalm": "Psalm 9:11 & Psalm 9:14"
+    }
+  },
+  "Hathor|12": {
+    "liturgy": {
+      "gospel": "Matthew 13:24-43",
+      "psalm": "Psalm 103:20-21"
+    },
+    "matins": {
+      "gospel": "Luke 15:3-10",
+      "psalm": "Psalm 104:4 & Psalm 104:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 13:44-52",
+      "psalm": "Psalm 149:1-2"
+    }
+  },
+  "Hathor|13": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Hathor|14": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Hathor|15": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Hathor|16": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 92:12-13"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 92:10 & Psalm 92:14 & Psalm 92:15"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 112:6-7 & Psalm 112:9"
+    }
+  },
+  "Hathor|17": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Hathor|18": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Hathor|19": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "psalm": "Psalm 37:39-40"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 34:19-20"
+    }
+  },
+  "Hathor|2": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Hathor|20": {
+    "liturgy": {
+      "gospel": "Mark 1:1-11",
+      "psalm": "Psalm 96:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 10:17-30",
+      "psalm": "Psalm 105:1-3"
+    },
+    "vespers": {
+      "gospel": "Mark 6:6-13",
+      "psalm": "Psalm 40:9 & Psalm 40:2"
+    }
+  },
+  "Hathor|21": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Hathor|22": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Hathor|23": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Hathor|24": {
+    "liturgy": {
+      "gospel": "John 1:1-17"
+    },
+    "matins": {
+      "gospel": "Matthew 12:1-8",
+      "psalm": "Psalm 138:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 11:25-30",
+      "psalm": "Psalm 97:7-8"
+    }
+  },
+  "Hathor|25": {
+    "liturgy": {
+      "gospel": "Matthew 12:9-23",
+      "psalm": "Psalm 45:3-4"
+    },
+    "matins": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 8:5-13",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Hathor|26": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Hathor|27": {
+    "liturgy": {
+      "gospel": "Mark 10:35-45",
+      "psalm": "Psalm 78:5 & Psalm 135:5"
+    },
+    "matins": {
+      "gospel": "Matthew 4:18-22",
+      "psalm": "Psalm 146:1 & Psalm 146:5"
+    },
+    "vespers": {
+      "psalm": "Psalm 46:1 & Psalm 46:7"
+    }
+  },
+  "Hathor|28": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Hathor|29": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Hathor|3": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 19:4 & Psalm 132:9-10"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 112:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Hathor|30": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Hathor|4": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Hathor|5": {
+    "liturgy": {
+      "gospel": "Mark 10:35-45",
+      "psalm": "Psalm 78:5 & Psalm 135:5"
+    },
+    "matins": {
+      "gospel": "Matthew 4:18-22",
+      "psalm": "Psalm 146:1 & Psalm 146:5"
+    },
+    "vespers": {
+      "psalm": "Psalm 46:1 & Psalm 46:7"
+    }
+  },
+  "Hathor|6": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Hathor|7": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-22",
+      "psalm": "Psalm 34:17-18"
+    }
+  },
+  "Hathor|8": {
+    "liturgy": {
+      "gospel": "John 1:43-51",
+      "psalm": "Psalm 80:1-3"
+    },
+    "matins": {
+      "gospel": "John 12:26-36",
+      "psalm": "Psalm 33:6 & Psalm 33:9"
+    },
+    "vespers": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 68:17 & Psalm 68:16 & Psalm 68:17"
+    }
+  },
+  "Hathor|9": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 19:4 & Psalm 132:9-10"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 112:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Hathor|First": {
+    "liturgy": {
+      "gospel": "Luke 8:4-15",
+      "psalm": "Psalm 65:10-11"
+    },
+    "matins": {
+      "gospel": "Matthew 28:1-20",
+      "psalm": "Psalm 65:9"
+    },
+    "vespers": {
+      "gospel": "Mark 4:10-20",
+      "psalm": "Psalm 18:15,6"
+    }
+  },
+  "Hathor|Fourth": {
+    "liturgy": {
+      "gospel": "Mark 10:17-31",
+      "psalm": "Psalm 100:3"
+    },
+    "matins": {
+      "gospel": "John 20:1-18",
+      "psalm": "Psalm 143:8"
+    },
+    "vespers": {
+      "gospel": "Matthew 17:14-21",
+      "psalm": "Psalm 86:12,10"
+    }
+  },
+  "Hathor|Second": {
+    "liturgy": {
+      "gospel": "Matthew 13:1-9",
+      "psalm": "Psalm 104:16,10"
+    },
+    "matins": {
+      "gospel": "Mark 16:2-8",
+      "psalm": "Psalm 67:6-7"
+    },
+    "vespers": {
+      "gospel": "Luke 12:27-31",
+      "psalm": "Psalm 104:13-14"
+    }
+  },
+  "Hathor|Third": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 86:15-16"
+    },
+    "matins": {
+      "gospel": "Luke 24:1-12",
+      "psalm": "Psalm 113:3-4"
+    },
+    "vespers": {
+      "gospel": "Matthew 11:25-30",
+      "psalm": "Psalm 86:2-4"
+    }
+  },
+  "Koiak|1": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Koiak|10": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Koiak|11": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 92:12-13"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 92:10 & Psalm 92:14 & Psalm 92:15"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 112:6-7 & Psalm 112:9"
+    }
+  },
+  "Koiak|12": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Koiak|13": {
+    "liturgy": {
+      "gospel": "Luke 1:1-25",
+      "psalm": "Psalm 102:13 & Psalm 102:16-17"
+    },
+    "matins": {
+      "gospel": "Mark 12:41-44",
+      "psalm": "Psalm 102:19-21"
+    },
+    "vespers": {
+      "gospel": "Mark 14:3-9",
+      "psalm": "Psalm 9:11 & Psalm 9:14"
+    }
+  },
+  "Koiak|14": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Koiak|15": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Koiak|16": {
+    "liturgy": {
+      "gospel": "Mark 10:35-45",
+      "psalm": "Psalm 78:5 & Psalm 135:5"
+    },
+    "matins": {
+      "gospel": "Matthew 4:18-22",
+      "psalm": "Psalm 146:1 & Psalm 146:5"
+    },
+    "vespers": {
+      "psalm": "Psalm 46:1 & Psalm 46:7"
+    }
+  },
+  "Koiak|17": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:1-3"
+    },
+    "matins": {
+      "gospel": "Luke 13:23-30",
+      "psalm": "Psalm 89:24 & Psalm 89:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:22-25",
+      "psalm": "Psalm 40:2-3"
+    }
+  },
+  "Koiak|18": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 96:2-3"
+    },
+    "matins": {
+      "gospel": "Luke 17:5-10",
+      "psalm": "Psalm 68:24 & Psalm 68:26"
+    },
+    "vespers": {
+      "gospel": "Luke 9:1-6",
+      "psalm": "Psalm 105:1-3"
+    }
+  },
+  "Koiak|19": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Koiak|2": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 92:12-13"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 92:10 & Psalm 92:14 & Psalm 92:15"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 112:6-7 & Psalm 112:9"
+    }
+  },
+  "Koiak|20": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Koiak|21": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Koiak|23": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Koiak|24": {
+    "liturgy": {
+      "gospel": "John 21:15-25",
+      "psalm": "Psalm 139:17-18"
+    },
+    "matins": {
+      "gospel": "John 1:1-17",
+      "psalm": "Psalm 45:1-2"
+    },
+    "vespers": {
+      "gospel": "John 15:7-16",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    }
+  },
+  "Koiak|25": {
+    "liturgy": {
+      "gospel": "Mark 9:33-41",
+      "psalm": "Psalm 132:9-10 & Psalm 132:1-2"
+    },
+    "matins": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Luke 22:24-30",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Koiak|26": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Koiak|27": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Koiak|28": {
+    "liturgy": {
+      "gospel": "Luke 2:1-20",
+      "psalm": "Psalm 110:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 1:18-25",
+      "psalm": "Psalm 50:2-3 & Psalm 50:23"
+    }
+  },
+  "Koiak|29": {
+    "liturgy": {
+      "gospel": "Matthew 2:1-12"
+    },
+    "matins": {
+      "gospel": "John 1:14-17"
+    },
+    "vespers": {
+      "gospel": "Luke 3:23-38",
+      "psalm": "Psalm 72:10"
+    }
+  },
+  "Koiak|30": {
+    "liturgy": {
+      "gospel": "John 1:1-13",
+      "psalm": "Psalm 72:17"
+    },
+    "matins": {
+      "gospel": "Matthew 22:41-46",
+      "psalm": "Psalm 72:11 & Psalm 72:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 12:15-23",
+      "psalm": "Psalm 72:1-2"
+    }
+  },
+  "Koiak|4": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Koiak|5": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Koiak|6": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Koiak|7": {
+    "liturgy": {
+      "gospel": "Mark 9:33-41",
+      "psalm": "Psalm 132:9-10 & Psalm 132:1-2"
+    },
+    "matins": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Luke 22:24-30",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Koiak|8": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "psalm": "Psalm 37:39-40"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 34:19-20"
+    }
+  },
+  "Koiak|9": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 34:19 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Koiak|First": {
+    "liturgy": {
+      "gospel": "Luke 1:1-25",
+      "psalm": "Psalm 102:13,16"
+    },
+    "matins": {
+      "gospel": "Mark 12:41-44",
+      "psalm": "Psalm 102:19-21"
+    },
+    "vespers": {
+      "gospel": "Mark 14:3-9",
+      "psalm": "Psalm 13:1,3"
+    }
+  },
+  "Koiak|Fourth": {
+    "liturgy": {
+      "gospel": "Luke 1:57-80",
+      "psalm": "Psalm 80:1-3"
+    },
+    "matins": {
+      "gospel": "Mark 3:28-35",
+      "psalm": "Psalm 96:11-13"
+    },
+    "vespers": {
+      "gospel": "Luke 8:1-3",
+      "psalm": "Psalm 87:5"
+    }
+  },
+  "Koiak|Second": {
+    "liturgy": {
+      "gospel": "Luke 1:26-38",
+      "psalm": "Psalm 45:10-11"
+    },
+    "matins": {
+      "gospel": "Luke 11:20-28",
+      "psalm": "Psalm 72:6-7"
+    },
+    "vespers": {
+      "gospel": "Luke 7:36-50",
+      "psalm": "Psalm 144:5,7"
+    }
+  },
+  "Koiak|Third": {
+    "liturgy": {
+      "gospel": "Luke 1:39-56",
+      "psalm": "Psalm 85:10-11"
+    },
+    "matins": {
+      "gospel": "Matthew 15:21-31",
+      "psalm": "Psalm 85:7-8"
+    },
+    "vespers": {
+      "gospel": "Mark 1:23-31",
+      "psalm": "Psalm 132:13-15"
+    }
+  },
+  "Meshir|1": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 19:4 & Psalm 132:9-10"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 112:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Meshir|10": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Meshir|11": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Meshir|12": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Meshir|13": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Meshir|14": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Meshir|15": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 92:12-13"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 92:10 & Psalm 92:14 & Psalm 92:15"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 112:6-7 & Psalm 112:9"
+    }
+  },
+  "Meshir|16": {
+    "liturgy": {
+      "gospel": "Luke 1:1-25",
+      "psalm": "Psalm 102:13 & Psalm 102:16-17"
+    },
+    "matins": {
+      "gospel": "Mark 12:41-44",
+      "psalm": "Psalm 102:19-21"
+    },
+    "vespers": {
+      "gospel": "Mark 14:3-9",
+      "psalm": "Psalm 9:11 & Psalm 9:14"
+    }
+  },
+  "Meshir|17": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Meshir|18": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Meshir|19": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Meshir|2": {
+    "liturgy": {
+      "gospel": "Mark 9:33-41",
+      "psalm": "Psalm 132:9-10 & Psalm 132:1-2"
+    },
+    "matins": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Luke 22:24-30",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Meshir|20": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Meshir|21": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Meshir|22": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Meshir|23": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Meshir|24": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Meshir|25": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Meshir|26": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Meshir|27": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Meshir|28": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Meshir|29": {
+    "liturgy": {
+      "gospel": "John 21:15-25",
+      "psalm": "Psalm 139:17-18"
+    },
+    "matins": {
+      "gospel": "John 1:1-17",
+      "psalm": "Psalm 45:1-2"
+    },
+    "vespers": {
+      "gospel": "John 15:7-16",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    }
+  },
+  "Meshir|3": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Meshir|30": {
+    "liturgy": {
+      "gospel": "Matthew 11:2-10",
+      "psalm": "Psalm 34:19 & Psalm 34:15"
+    },
+    "matins": {
+      "gospel": "John 3:25-36",
+      "psalm": "Psalm 51:8 & Psalm 51:19"
+    },
+    "vespers": {
+      "gospel": "Luke 7:18-28",
+      "psalm": "Psalm 35:10 & Psalm 35:27"
+    }
+  },
+  "Meshir|4": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 96:2-3"
+    },
+    "matins": {
+      "gospel": "Luke 17:5-10",
+      "psalm": "Psalm 68:24 & Psalm 68:26"
+    },
+    "vespers": {
+      "gospel": "Luke 9:1-6",
+      "psalm": "Psalm 105:1-3"
+    }
+  },
+  "Meshir|5": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 1:1"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:1-2 & Psalm 132:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:14-23",
+      "psalm": "Psalm 112:1-2"
+    }
+  },
+  "Meshir|6": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Meshir|7": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Meshir|8": {
+    "liturgy": {
+      "gospel": "Luke 2:21-39",
+      "psalm": "Psalm 50:14 & Psalm 50:23"
+    },
+    "matins": {
+      "gospel": "Luke 2:40-52",
+      "psalm": "Psalm 66:13-15"
+    },
+    "vespers": {
+      "gospel": "Luke 2:15-20",
+      "psalm": "Psalm 116:16-19"
+    }
+  },
+  "Meshir|9": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:1-3"
+    },
+    "matins": {
+      "gospel": "Luke 13:23-30",
+      "psalm": "Psalm 89:24 & Psalm 89:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:22-25",
+      "psalm": "Psalm 40:2-3"
+    }
+  },
+  "Meshir|First": {
+    "liturgy": {
+      "gospel": "John 6:22-27",
+      "psalm": "Psalm 96:6 & Psalm 96:4"
+    },
+    "matins": {
+      "gospel": "John 8:51-59",
+      "psalm": "Psalm 119:105 & Psalm 119:73"
+    },
+    "vespers": {
+      "gospel": "John 6:15-21",
+      "psalm": "Psalm 82:8 & Psalm 82:6"
+    }
+  },
+  "Meshir|Fourth": {
+    "liturgy": {
+      "gospel": "Luke 19:1-10",
+      "psalm": "Psalm 24:1-2"
+    },
+    "matins": {
+      "gospel": "Luke 17:11-19",
+      "psalm": "Psalm 89:11 & Psalm 89:1"
+    },
+    "vespers": {
+      "gospel": "Luke 17:1-10",
+      "psalm": "Psalm 92:4-5"
+    }
+  },
+  "Meshir|Second": {
+    "liturgy": {
+      "gospel": "John 6:5-14",
+      "psalm": "Psalm 96:7-8"
+    },
+    "matins": {
+      "gospel": "John 3:17-21",
+      "psalm": "Psalm 24:3-4"
+    },
+    "vespers": {
+      "gospel": "John 4:46-53",
+      "psalm": "Psalm 15:1-2"
+    }
+  },
+  "Meshir|Third": {
+    "liturgy": {
+      "gospel": "John 6:27-46",
+      "psalm": "Psalm 89:1 & Psalm 89:6"
+    },
+    "matins": {
+      "gospel": "John 12:44-50",
+      "psalm": "Psalm 89:52 & Psalm 89:49"
+    },
+    "vespers": {
+      "gospel": "John 5:39-47",
+      "psalm": "Psalm 17:15 & Psalm 17:3"
+    }
+  },
+  "Mesori|1": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Mesori|10": {
+    "liturgy": {
+      "gospel": "Mark 10:35-45",
+      "psalm": "Psalm 78:5 & Psalm 135:5"
+    },
+    "matins": {
+      "gospel": "Matthew 4:18-22",
+      "psalm": "Psalm 146:1 & Psalm 146:5"
+    },
+    "vespers": {
+      "psalm": "Psalm 46:1 & Psalm 46:7"
+    }
+  },
+  "Mesori|11": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Mesori|12": {
+    "liturgy": {
+      "gospel": "John 6:35-46",
+      "psalm": "Psalm 65:1-2"
+    },
+    "matins": {
+      "gospel": "John 3:14-21",
+      "psalm": "Psalm 118:28 & Psalm 118:16"
+    },
+    "vespers": {
+      "gospel": "John 4:19-24",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Mesori|13": {
+    "liturgy": {
+      "gospel": "Mark 9:2-13",
+      "psalm": "Psalm 87:1-2 & Psalm 87:5"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 104:31-32"
+    },
+    "vespers": {
+      "gospel": "Luke 9:28-36",
+      "psalm": "Psalm 99:6 & Psalm 99:7"
+    }
+  },
+  "Mesori|14": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Mesori|15": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Mesori|16": {
+    "liturgy": {
+      "gospel": "Luke 1:39-56",
+      "psalm": "Psalm 45:12-13"
+    },
+    "matins": {
+      "gospel": "Matthew 12:35-50",
+      "psalm": "Psalm 48:8 & Psalm 48:1"
+    },
+    "vespers": {
+      "gospel": "Luke 10:38-42",
+      "psalm": "Psalm 87:3 & Psalm 87:5 & Psalm 87:7"
+    }
+  },
+  "Mesori|17": {
+    "liturgy": {
+      "gospel": "Mark 10:35-45",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Matthew 4:18-22",
+      "psalm": "Psalm 37:39-40"
+    },
+    "vespers": {
+      "gospel": "Mark 1:16-22",
+      "psalm": "Psalm 34:19-20"
+    }
+  },
+  "Mesori|18": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Mesori|19": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 1:1"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:1-2 & Psalm 132:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:14-23",
+      "psalm": "Psalm 112:1-2"
+    }
+  },
+  "Mesori|2": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Mesori|20": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Mesori|21": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Mesori|22": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Mesori|23": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-22",
+      "psalm": "Psalm 34:17-18"
+    }
+  },
+  "Mesori|24": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Mesori|25": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 104:1-2 & Psalm 104:4"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 34:5 & Psalm 34:7"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 42:1"
+    }
+  },
+  "Mesori|26": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 149:5 & Psalm 149:9"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 145:10-11 & Psalm 145:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 31:23 & Psalm 31:19"
+    }
+  },
+  "Mesori|27": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-22",
+      "psalm": "Psalm 34:17-18"
+    }
+  },
+  "Mesori|28": {
+    "liturgy": {
+      "gospel": "Mark 12:18-27",
+      "psalm": "Psalm 105:8-10"
+    },
+    "matins": {
+      "gospel": "Luke 16:19-31",
+      "psalm": "Psalm 105:3-4"
+    },
+    "vespers": {
+      "gospel": "John 15:7-16",
+      "psalm": "Psalm 47:8-9"
+    }
+  },
+  "Mesori|29": {
+    "liturgy": {
+      "gospel": "John 8:21-27",
+      "psalm": "Psalm 68:35 & Psalm 68:19"
+    },
+    "matins": {
+      "gospel": "Matthew 15:12-20",
+      "psalm": "Psalm 110:4-5 & Psalm 110:7"
+    },
+    "vespers": {
+      "gospel": "Matthew 15:1-11",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Mesori|3": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:1-3"
+    },
+    "matins": {
+      "gospel": "Luke 13:23-30",
+      "psalm": "Psalm 89:24 & Psalm 89:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:22-25",
+      "psalm": "Psalm 40:2-3"
+    }
+  },
+  "Mesori|30": {
+    "liturgy": {
+      "gospel": "Luke 14:16-24",
+      "psalm": "Psalm 50:23 & Psalm 50:14"
+    },
+    "matins": {
+      "gospel": "Matthew 14:1-5",
+      "psalm": "Psalm 101:8"
+    },
+    "vespers": {
+      "gospel": "Matthew 13:53-58",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Mesori|4": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Mesori|5": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Mesori|6": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Mesori|7": {
+    "liturgy": {
+      "gospel": "Luke 1:1-25",
+      "psalm": "Psalm 102:13 & Psalm 102:16-17"
+    },
+    "matins": {
+      "gospel": "Mark 12:41-44",
+      "psalm": "Psalm 102:19-21"
+    },
+    "vespers": {
+      "gospel": "Mark 14:3-9",
+      "psalm": "Psalm 9:11 & Psalm 9:14"
+    }
+  },
+  "Mesori|8": {
+    "liturgy": {
+      "gospel": "Matthew 18:10-20",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 10:13-16",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 11:25-30",
+      "psalm": "Psalm 4:3 & Psalm 4:6 & Psalm 4:7"
+    }
+  },
+  "Mesori|9": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Mesori|First": {
+    "liturgy": {
+      "gospel": "Luke 20:9-19",
+      "psalm": "Psalm 80:14-15"
+    },
+    "matins": {
+      "gospel": "Matthew 28:1-20",
+      "psalm": "Psalm 33:20-21"
+    },
+    "vespers": {
+      "gospel": "Mark 6:45-56",
+      "psalm": "Psalm 33:22, 18"
+    }
+  },
+  "Mesori|Fourth": {
+    "liturgy": {
+      "gospel": "Mark 13:3-37",
+      "psalm": "Psalm 89:11-12"
+    },
+    "matins": {
+      "gospel": "John 20:1-18",
+      "psalm": "Psalm 90:1-2"
+    },
+    "vespers": {
+      "gospel": "Luke 17:20-37",
+      "psalm": "Psalm 119:170, 176"
+    }
+  },
+  "Mesori|Second": {
+    "liturgy": {
+      "gospel": "Luke 5:27-39",
+      "psalm": "Psalm 89:5, 15"
+    },
+    "matins": {
+      "gospel": "Mark 16:2-8",
+      "psalm": "Psalm 89:1-2"
+    },
+    "vespers": {
+      "gospel": "Luke 18:9-17",
+      "psalm": "Psalm 119:145-146"
+    }
+  },
+  "Mesori|Third": {
+    "liturgy": {
+      "gospel": "Mark 3:22-35",
+      "psalm": "Psalm 28:2, 6"
+    },
+    "matins": {
+      "gospel": "Luke 24:1-12",
+      "psalm": "Psalm 15:1-2"
+    },
+    "vespers": {
+      "gospel": "Luke 11:27-36",
+      "psalm": "Psalm 5:7, 11"
+    }
+  },
+  "Paoni|1": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Paoni|10": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Paoni|11": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Paoni|12": {
+    "liturgy": {
+      "gospel": "Matthew 13:24-43",
+      "psalm": "Psalm 103:20-21"
+    },
+    "matins": {
+      "gospel": "Luke 15:3-10",
+      "psalm": "Psalm 104:4 & Psalm 104:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 13:44-52",
+      "psalm": "Psalm 149:1-2"
+    }
+  },
+  "Paoni|13": {
+    "liturgy": {
+      "gospel": "Matthew 25:31-46",
+      "psalm": "Psalm 138:1-2"
+    },
+    "matins": {
+      "gospel": "Matthew 18:10-20",
+      "psalm": "Psalm 97:7-9"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 34:7-8"
+    }
+  },
+  "Paoni|14": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Paoni|15": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Paoni|16": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 92:12-13"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 92:10 & Psalm 92:14 & Psalm 92:15"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 112:6-7 & Psalm 112:9"
+    }
+  },
+  "Paoni|17": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 34:19 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Paoni|18": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Paoni|19": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-22",
+      "psalm": "Psalm 34:17-18"
+    }
+  },
+  "Paoni|2": {
+    "liturgy": {
+      "gospel": "Matthew 11:2-10",
+      "psalm": "Psalm 34:19 & Psalm 34:15"
+    },
+    "matins": {
+      "gospel": "John 3:25-36",
+      "psalm": "Psalm 51:8 & Psalm 51:19"
+    },
+    "vespers": {
+      "gospel": "Luke 7:18-28",
+      "psalm": "Psalm 35:10 & Psalm 35:27"
+    }
+  },
+  "Paoni|20": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Paoni|21": {
+    "liturgy": {
+      "gospel": "Luke 1:39-56",
+      "psalm": "Psalm 45:12-13"
+    },
+    "matins": {
+      "gospel": "Matthew 12:35-50",
+      "psalm": "Psalm 48:8 & Psalm 48:1"
+    },
+    "vespers": {
+      "gospel": "Luke 10:38-42",
+      "psalm": "Psalm 87:3 & Psalm 87:5 & Psalm 87:7"
+    }
+  },
+  "Paoni|22": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Paoni|23": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 34:19 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Paoni|24": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:1-3"
+    },
+    "matins": {
+      "gospel": "Luke 13:23-30",
+      "psalm": "Psalm 89:24 & Psalm 89:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:22-25",
+      "psalm": "Psalm 40:2-3"
+    }
+  },
+  "Paoni|25": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Paoni|26": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Paoni|27": {
+    "liturgy": {
+      "gospel": "Mark 1:1-11",
+      "psalm": "Psalm 96:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 10:17-30",
+      "psalm": "Psalm 105:1-3"
+    },
+    "vespers": {
+      "gospel": "Mark 6:6-13",
+      "psalm": "Psalm 40:9 & Psalm 40:2"
+    }
+  },
+  "Paoni|28": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Paoni|29": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Paoni|3": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Paoni|30": {
+    "liturgy": {
+      "gospel": "Luke 1:57-80",
+      "psalm": "Psalm 92:12-13"
+    },
+    "matins": {
+      "gospel": "Matthew 11:11-19",
+      "psalm": "Psalm 92:10 & Psalm 92:14 & Psalm 92:15"
+    },
+    "vespers": {
+      "gospel": "Luke 7:28-35",
+      "psalm": "Psalm 52:8-9"
+    }
+  },
+  "Paoni|4": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Paoni|5": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 34:19 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Paoni|6": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Paoni|7": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-22",
+      "psalm": "Psalm 34:17-18"
+    }
+  },
+  "Paoni|8": {
+    "liturgy": {
+      "gospel": "Matthew 2:13-23",
+      "psalm": "Psalm 105:36 & Psalm 105:38"
+    },
+    "matins": {
+      "gospel": "Matthew 12:15-23",
+      "psalm": "Psalm 106:21-22 & Psalm 106:4"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:12-17",
+      "psalm": "Psalm 105:23 & Psalm 105:27"
+    }
+  },
+  "Paoni|9": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Paoni|First": {
+    "liturgy": {
+      "gospel": "Luke 11:1-13",
+      "psalm": "Psalm 143:10,8"
+    },
+    "matins": {
+      "gospel": "Matthew 28:1-20",
+      "psalm": "Psalm 67:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 17:1-13",
+      "psalm": "Psalm 9:10"
+    }
+  },
+  "Paoni|Fourth": {
+    "liturgy": {
+      "gospel": "Luke 6:27-38",
+      "psalm": "Psalm 69:32-33 & Psalm 69:30"
+    },
+    "matins": {
+      "gospel": "John 20:1-18",
+      "psalm": "Psalm 61:5 & Psalm 61:8"
+    },
+    "vespers": {
+      "gospel": "Matthew 5:34-48",
+      "psalm": "Psalm 84:8 & Psalm 84:4"
+    }
+  },
+  "Paoni|Second": {
+    "liturgy": {
+      "gospel": "Luke 5:17-26",
+      "psalm": "Psalm 13:6,5"
+    },
+    "matins": {
+      "gospel": "Mark 16:2-8",
+      "psalm": "Psalm 34:1-2"
+    },
+    "vespers": {
+      "gospel": "Luke 4:38-41",
+      "psalm": "Psalm 16:7-8"
+    }
+  },
+  "Paoni|Third": {
+    "liturgy": {
+      "gospel": "Matthew 12:22-37",
+      "psalm": "Psalm 61:5 & Psalm 61:8"
+    },
+    "matins": {
+      "gospel": "Luke 24:1-12",
+      "psalm": "Psalm 38:21-22"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:7-12",
+      "psalm": "Psalm 6:1 & Psalm 38:15"
+    }
+  },
+  "Paopi|1": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Paopi|10": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "psalm": "Psalm 37:39-40"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 34:19-20"
+    }
+  },
+  "Paopi|11": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Paopi|12": {
+    "liturgy": {
+      "gospel": "Luke 5:27-32",
+      "psalm": "Psalm 68:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 2:13-17",
+      "psalm": "Psalm 40:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 9:9-13",
+      "psalm": "Psalm 22:22-23"
+    }
+  },
+  "Paopi|13": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Paopi|14": {
+    "liturgy": {
+      "gospel": "John 3:1-21",
+      "psalm": "Psalm 32:1-2"
+    },
+    "matins": {
+      "gospel": "John 1:43-51",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Paopi|15": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Paopi|16": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Paopi|17": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Paopi|18": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Paopi|19": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Paopi|2": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Paopi|20": {
+    "liturgy": {
+      "gospel": "Mark 9:33-41",
+      "psalm": "Psalm 132:9-10 & Psalm 132:1-2"
+    },
+    "matins": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Luke 22:24-30",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Paopi|21": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Paopi|22": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 96:2-3"
+    },
+    "matins": {
+      "gospel": "Luke 17:5-10",
+      "psalm": "Psalm 68:24 & Psalm 68:26"
+    },
+    "vespers": {
+      "gospel": "Luke 9:1-6",
+      "psalm": "Psalm 105:1-3"
+    }
+  },
+  "Paopi|23": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Paopi|24": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 34:19 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Paopi|25": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Paopi|26": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Paopi|27": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 1:1"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:1-2 & Psalm 132:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:14-23",
+      "psalm": "Psalm 112:1-2"
+    }
+  },
+  "Paopi|28": {
+    "liturgy": {
+      "gospel": "Matthew 12:9-23",
+      "psalm": "Psalm 45:3-4"
+    },
+    "matins": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 8:5-13",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Paopi|29": {
+    "liturgy": {
+      "gospel": "Mark 10:35-45",
+      "psalm": "Psalm 78:5 & Psalm 135:5"
+    },
+    "matins": {
+      "gospel": "Matthew 4:18-22",
+      "psalm": "Psalm 146:1 & Psalm 146:5"
+    },
+    "vespers": {
+      "psalm": "Psalm 46:1 & Psalm 46:7"
+    }
+  },
+  "Paopi|3": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Paopi|30": {
+    "liturgy": {
+      "gospel": "Mark 1:1-11",
+      "psalm": "Psalm 96:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 10:17-30",
+      "psalm": "Psalm 105:1-3"
+    },
+    "vespers": {
+      "gospel": "Mark 6:6-13",
+      "psalm": "Psalm 40:9 & Psalm 40:2"
+    }
+  },
+  "Paopi|4": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "psalm": "Psalm 37:39-40"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 34:19-20"
+    }
+  },
+  "Paopi|5": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Paopi|6": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Paopi|7": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Paopi|8": {
+    "liturgy": {
+      "gospel": "Matthew 12:9-23",
+      "psalm": "Psalm 45:3-4"
+    },
+    "matins": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 8:5-13",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Paopi|9": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Paopi|First": {
+    "liturgy": {
+      "gospel": "Mark 2:1-12",
+      "psalm": "Psalm 34:1-2"
+    },
+    "matins": {
+      "gospel": "Matthew 28:1-20",
+      "psalm": "Psalm 63:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 14:15-21",
+      "psalm": "Psalm 67:1-2"
+    }
+  },
+  "Paopi|Fourth": {
+    "liturgy": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 79:13"
+    },
+    "matins": {
+      "gospel": "John 20:1-18",
+      "psalm": "Psalm 35:18,28"
+    },
+    "vespers": {
+      "gospel": "Matthew 14:22-36",
+      "psalm": "Psalm 119:7-8"
+    }
+  },
+  "Paopi|Second": {
+    "liturgy": {
+      "gospel": "Luke 5:1-11",
+      "psalm": "Psalm 66:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 16:2-8",
+      "psalm": "Psalm 63:6,3-4"
+    },
+    "vespers": {
+      "gospel": "Matthew 17:24-27",
+      "psalm": "Psalm 67:3-4"
+    }
+  },
+  "Paopi|Third": {
+    "liturgy": {
+      "gospel": "Matthew 12:22-28",
+      "psalm": "Psalm 71:7-8"
+    },
+    "matins": {
+      "gospel": "Luke 24:1-12",
+      "psalm": "Psalm 57:9-10"
+    },
+    "vespers": {
+      "gospel": "Mark 4:35-41",
+      "psalm": "Psalm 71:5,7"
+    }
+  },
+  "Paremhotep|1": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Paremhotep|10": {
+    "liturgy": {
+      "gospel": "John 6:35-46",
+      "psalm": "Psalm 65:1-2"
+    },
+    "matins": {
+      "gospel": "John 3:14-21",
+      "psalm": "Psalm 118:28 & Psalm 118:16"
+    },
+    "vespers": {
+      "gospel": "John 4:19-24",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Paremhotep|11": {
+    "liturgy": {
+      "gospel": "Mark 3:28-35",
+      "psalm": "Psalm 16:10-11"
+    },
+    "matins": {
+      "gospel": "Mark 3:22-27",
+      "psalm": "Psalm 70:5"
+    },
+    "vespers": {
+      "gospel": "Mark 4:21-25",
+      "psalm": "Psalm 64:10"
+    }
+  },
+  "Paremhotep|12": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Paremhotep|13": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "psalm": "Psalm 37:39-40"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 34:19-20"
+    }
+  },
+  "Paremhotep|14": {
+    "liturgy": {
+      "gospel": "Mark 3:28-35",
+      "psalm": "Psalm 16:10-11"
+    },
+    "matins": {
+      "gospel": "Mark 3:22-27",
+      "psalm": "Psalm 70:5"
+    },
+    "vespers": {
+      "gospel": "Mark 4:21-25",
+      "psalm": "Psalm 64:10"
+    }
+  },
+  "Paremhotep|15": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Paremhotep|16": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Paremhotep|17": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Paremhotep|18": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Paremhotep|19": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Paremhotep|2": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Paremhotep|20": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Paremhotep|21": {
+    "liturgy": {
+      "gospel": "Mark 9:2-13",
+      "psalm": "Psalm 87:1-2 & Psalm 87:5"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 104:31-32"
+    },
+    "vespers": {
+      "gospel": "Luke 9:28-36",
+      "psalm": "Psalm 99:6 & Psalm 99:7"
+    }
+  },
+  "Paremhotep|22": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Paremhotep|23": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Paremhotep|24": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Paremhotep|25": {
+    "liturgy": {
+      "gospel": "John 3:1-21",
+      "psalm": "Psalm 32:1-2"
+    },
+    "matins": {
+      "gospel": "John 1:43-51",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Paremhotep|27": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 1:1"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:1-2 & Psalm 132:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:14-23",
+      "psalm": "Psalm 112:1-2"
+    }
+  },
+  "Paremhotep|28": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 65:1-2"
+    },
+    "matins": {
+      "gospel": "Luke 19:1-10",
+      "psalm": "Psalm 26:8 & Psalm 26:7"
+    },
+    "vespers": {
+      "gospel": "Luke 7:1-10",
+      "psalm": "Psalm 84:3-4"
+    }
+  },
+  "Paremhotep|29": {
+    "liturgy": {
+      "gospel": "Luke 1:26-38",
+      "psalm": "Psalm 45:10-11"
+    },
+    "matins": {
+      "gospel": "Luke 11:20-28",
+      "psalm": "Psalm 72:6-7"
+    },
+    "vespers": {
+      "gospel": "Luke 7:36-50",
+      "psalm": "Psalm 144:5 & Psalm 144:7"
+    }
+  },
+  "Paremhotep|3": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Paremhotep|4": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 19:4 & Psalm 132:9-10"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 112:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Paremhotep|5": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Paremhotep|6": {
+    "liturgy": {
+      "gospel": "Mark 10:35-45",
+      "psalm": "Psalm 78:5 & Psalm 135:5"
+    },
+    "matins": {
+      "gospel": "Matthew 4:18-22",
+      "psalm": "Psalm 146:1 & Psalm 146:5"
+    },
+    "vespers": {
+      "psalm": "Psalm 46:1 & Psalm 46:7"
+    }
+  },
+  "Paremhotep|7": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Paremhotep|8": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Paremhotep|9": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Parmouti|1": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Parmouti|10": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Parmouti|11": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Parmouti|12": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Parmouti|13": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Parmouti|14": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Parmouti|15": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Parmouti|16": {
+    "liturgy": {
+      "gospel": "John 21:15-25",
+      "psalm": "Psalm 139:17-18"
+    },
+    "matins": {
+      "gospel": "John 1:1-17",
+      "psalm": "Psalm 45:1-2"
+    },
+    "vespers": {
+      "gospel": "John 15:7-16",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    }
+  },
+  "Parmouti|17": {
+    "liturgy": {
+      "gospel": "Matthew 10:1-15",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Parmouti|18": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Parmouti|19": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Parmouti|2": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Parmouti|20": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Parmouti|21": {
+    "liturgy": {
+      "gospel": "Mark 3:28-35",
+      "psalm": "Psalm 16:10-11"
+    },
+    "matins": {
+      "gospel": "Mark 3:22-27",
+      "psalm": "Psalm 70:5"
+    },
+    "vespers": {
+      "gospel": "Mark 4:21-25",
+      "psalm": "Psalm 64:10"
+    }
+  },
+  "Parmouti|22": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Parmouti|23": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-22",
+      "psalm": "Psalm 34:17-18"
+    }
+  },
+  "Parmouti|24": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Parmouti|25": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Parmouti|26": {
+    "liturgy": {
+      "gospel": "Luke 10:21-24",
+      "psalm": "Psalm 91:13 & Psalm 91:11"
+    },
+    "matins": {
+      "gospel": "Luke 7:11-17",
+      "psalm": "Psalm 45:3 & Psalm 45:6"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Parmouti|27": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Parmouti|28": {
+    "liturgy": {
+      "gospel": "Matthew 12:9-23",
+      "psalm": "Psalm 45:3-4"
+    },
+    "matins": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 8:5-13",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Parmouti|29": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Parmouti|3": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Parmouti|30": {
+    "liturgy": {
+      "gospel": "Mark 1:1-11",
+      "psalm": "Psalm 96:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 10:17-30",
+      "psalm": "Psalm 105:1-3"
+    },
+    "vespers": {
+      "gospel": "Mark 6:6-13",
+      "psalm": "Psalm 40:9 & Psalm 40:2"
+    }
+  },
+  "Parmouti|4": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Parmouti|5": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Parmouti|6": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Parmouti|7": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Parmouti|8": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Parmouti|9": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 34:19 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Pashons|1": {
+    "liturgy": {
+      "gospel": "Luke 1:39-56",
+      "psalm": "Psalm 45:12-13"
+    },
+    "matins": {
+      "gospel": "Matthew 12:35-50",
+      "psalm": "Psalm 48:8 & Psalm 48:1"
+    },
+    "vespers": {
+      "gospel": "Luke 10:38-42",
+      "psalm": "Psalm 87:3 & Psalm 87:5 & Psalm 87:7"
+    }
+  },
+  "Pashons|10": {
+    "liturgy": {
+      "gospel": "Matthew 18:10-20",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 10:13-16",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 11:25-30",
+      "psalm": "Psalm 4:3 & Psalm 4:6 & Psalm 4:7"
+    }
+  },
+  "Pashons|11": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Pashons|12": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Pashons|13": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 34:19 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Pashons|14": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:1-3"
+    },
+    "matins": {
+      "gospel": "Luke 13:23-30",
+      "psalm": "Psalm 89:24 & Psalm 89:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:22-25",
+      "psalm": "Psalm 40:2-3"
+    }
+  },
+  "Pashons|15": {
+    "liturgy": {
+      "gospel": "Luke 5:27-32",
+      "psalm": "Psalm 68:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 2:13-17",
+      "psalm": "Psalm 40:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 9:9-13",
+      "psalm": "Psalm 22:22-23"
+    }
+  },
+  "Pashons|16": {
+    "liturgy": {
+      "gospel": "John 21:15-25",
+      "psalm": "Psalm 139:17-18"
+    },
+    "matins": {
+      "gospel": "John 1:1-17",
+      "psalm": "Psalm 45:1-2"
+    },
+    "vespers": {
+      "gospel": "John 15:7-16",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    }
+  },
+  "Pashons|17": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Pashons|18": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 1:1"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:1-2 & Psalm 132:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:14-23",
+      "psalm": "Psalm 112:1-2"
+    }
+  },
+  "Pashons|19": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 34:19 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Pashons|2": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:1-3"
+    },
+    "matins": {
+      "gospel": "Luke 13:23-30",
+      "psalm": "Psalm 89:24 & Psalm 89:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:22-25",
+      "psalm": "Psalm 40:2-3"
+    }
+  },
+  "Pashons|20": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Pashons|21": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:1-3"
+    },
+    "matins": {
+      "gospel": "Luke 13:23-30",
+      "psalm": "Psalm 89:24 & Psalm 89:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:22-25",
+      "psalm": "Psalm 40:2-3"
+    }
+  },
+  "Pashons|22": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Pashons|23": {
+    "liturgy": {
+      "gospel": "Mark 1:1-11",
+      "psalm": "Psalm 96:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 10:17-30",
+      "psalm": "Psalm 105:1-3"
+    },
+    "vespers": {
+      "gospel": "Mark 6:6-13",
+      "psalm": "Psalm 40:9 & Psalm 40:2"
+    }
+  },
+  "Pashons|24": {
+    "liturgy": {
+      "gospel": "Matthew 2:13-23",
+      "psalm": "Psalm 105:36 & Psalm 105:38"
+    },
+    "matins": {
+      "gospel": "Matthew 12:15-23",
+      "psalm": "Psalm 106:21-22 & Psalm 106:4"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:12-17",
+      "psalm": "Psalm 105:23 & Psalm 105:27"
+    }
+  },
+  "Pashons|25": {
+    "liturgy": {
+      "gospel": "Matthew 12:9-23",
+      "psalm": "Psalm 45:3-4"
+    },
+    "matins": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 8:5-13",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Pashons|26": {
+    "liturgy": {
+      "gospel": "John 20:24-31",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    },
+    "matins": {
+      "gospel": "Luke 6:12-23",
+      "psalm": "Psalm 145:10-12"
+    },
+    "vespers": {
+      "gospel": "Mark 3:7-21",
+      "psalm": "Psalm 68:11 & Psalm 68:35"
+    }
+  },
+  "Pashons|27": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Pashons|28": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Pashons|29": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:1-3"
+    },
+    "matins": {
+      "gospel": "Luke 13:23-30",
+      "psalm": "Psalm 89:24 & Psalm 89:19"
+    },
+    "vespers": {
+      "gospel": "Matthew 7:22-25",
+      "psalm": "Psalm 40:2-3"
+    }
+  },
+  "Pashons|3": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Pashons|30": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Pashons|4": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:5 & Psalm 110:7"
+    },
+    "matins": {
+      "gospel": "Mark 8:22-29",
+      "psalm": "Psalm 107:32 & Psalm 107:41 & Psalm 107:42"
+    },
+    "vespers": {
+      "gospel": "Luke 9:18-27",
+      "psalm": "Psalm 89:36 & Psalm 89:29"
+    }
+  },
+  "Pashons|5": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Pashons|6": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-22",
+      "psalm": "Psalm 34:17-18"
+    }
+  },
+  "Pashons|7": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Pashons|8": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 97:11-12"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-22",
+      "psalm": "Psalm 34:17-18"
+    }
+  },
+  "Pashons|9": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 65:1-2"
+    },
+    "matins": {
+      "gospel": "Luke 19:1-10",
+      "psalm": "Psalm 26:8 & Psalm 26:7"
+    },
+    "vespers": {
+      "gospel": "Luke 7:1-10",
+      "psalm": "Psalm 84:3-4"
+    }
+  },
+  "Pashons|Fourth": {
+    "liturgy": {
+      "gospel": "Luke 4:1-13",
+      "psalm": "Psalm 66:4 & Psalm 66:1-2"
+    },
+    "matins": {
+      "gospel": "John 20:1-18",
+      "psalm": "Psalm 47:6-7"
+    },
+    "vespers": {
+      "gospel": "Matthew 22:41-46",
+      "psalm": "Psalm 46:10-11"
+    }
+  },
+  "Pashons|Third": {
+    "liturgy": {
+      "gospel": "Luke 10:25-37",
+      "psalm": "Psalm 68:26 & Psalm 68:19"
+    },
+    "matins": {
+      "gospel": "Luke 24:1-12",
+      "psalm": "Psalm 74:12 & Psalm 74:2"
+    },
+    "vespers": {
+      "gospel": "Matthew 22:34-40",
+      "psalm": "Psalm 79:13 & Psalm 79:9"
+    }
+  },
+  "Thout|1": {
+    "liturgy": {
+      "gospel": "Luke 4:14-30",
+      "psalm": "Psalm 65:11-12 & Psalm 81:1"
+    },
+    "matins": {
+      "gospel": "Mark 2:18-22",
+      "psalm": "Psalm 98:1"
+    },
+    "vespers": {
+      "gospel": "Matthew 13:44-52",
+      "psalm": "Psalm 96:1-2"
+    }
+  },
+  "Thout|10": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Thout|11": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Thout|12": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 19:4 & Psalm 132:9-10"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 112:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 32:6"
+    }
+  },
+  "Thout|13": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Thout|15": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Thout|16": {
+    "liturgy": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 65:1-2"
+    },
+    "matins": {
+      "gospel": "Luke 19:1-10",
+      "psalm": "Psalm 26:8 & Psalm 26:7"
+    },
+    "vespers": {
+      "gospel": "Luke 7:1-10",
+      "psalm": "Psalm 84:3-4"
+    }
+  },
+  "Thout|17": {
+    "liturgy": {
+      "gospel": "John 6:35-46",
+      "psalm": "Psalm 65:1-2"
+    },
+    "matins": {
+      "gospel": "John 3:14-21",
+      "psalm": "Psalm 118:28 & Psalm 118:16"
+    },
+    "vespers": {
+      "gospel": "John 4:19-24",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Thout|19": {
+    "liturgy": {
+      "gospel": "Luke 14:25-35",
+      "psalm": "Psalm 61:2-3 & Psalm 61:5"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 74:2 & Psalm 74:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:21-26",
+      "psalm": "Psalm 45:6 & Psalm 45:17"
+    }
+  },
+  "Thout|2": {
+    "liturgy": {
+      "gospel": "Mark 6:14-29",
+      "psalm": "Psalm 92:12-13"
+    },
+    "matins": {
+      "gospel": "Luke 9:7-12",
+      "psalm": "Psalm 92:10 & Psalm 92:14-15"
+    },
+    "vespers": {
+      "gospel": "Matthew 14:1-12",
+      "psalm": "Psalm 52:8-9"
+    }
+  },
+  "Thout|20": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Thout|21": {
+    "liturgy": {
+      "gospel": "Mark 3:28-35",
+      "psalm": "Psalm 16:10-11"
+    },
+    "matins": {
+      "gospel": "Mark 3:22-27",
+      "psalm": "Psalm 70:5"
+    },
+    "vespers": {
+      "gospel": "Mark 4:21-25",
+      "psalm": "Psalm 64:10"
+    }
+  },
+  "Thout|22": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Thout|23": {
+    "liturgy": {
+      "gospel": "Mark 3:28-35",
+      "psalm": "Psalm 16:10-11"
+    },
+    "matins": {
+      "gospel": "Mark 3:22-27",
+      "psalm": "Psalm 70:5"
+    },
+    "vespers": {
+      "gospel": "Mark 4:21-25",
+      "psalm": "Psalm 64:10"
+    }
+  },
+  "Thout|24": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Thout|25": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Thout|26": {
+    "liturgy": {
+      "gospel": "Luke 1:1-25",
+      "psalm": "Psalm 102:13 & Psalm 102:16-17"
+    },
+    "matins": {
+      "gospel": "Mark 12:41-44",
+      "psalm": "Psalm 102:19-21"
+    },
+    "vespers": {
+      "gospel": "Mark 14:3-9",
+      "psalm": "Psalm 9:11 & Psalm 9:14"
+    }
+  },
+  "Thout|27": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Thout|28": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Thout|29": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Thout|3": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Thout|30": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Thout|4": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Thout|5": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Thout|6": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Thout|7": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Thout|8": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Thout|9": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Thout|First": {
+    "liturgy": {
+      "gospel": "Luke 7:28-35",
+      "psalm": "Psalm 31:23,19"
+    },
+    "matins": {
+      "gospel": "Matthew 21:23-27",
+      "psalm": "Psalm 31:1,19"
+    },
+    "vespers": {
+      "gospel": "Matthew 11:11-19",
+      "psalm": "Psalm 30:4,10"
+    }
+  },
+  "Thout|Fourth": {
+    "liturgy": {
+      "gospel": "Luke 7:36-50",
+      "psalm": "Psalm 28:8-9"
+    },
+    "matins": {
+      "gospel": "Matthew 15:21-28",
+      "psalm": "Psalm 33:20-21"
+    },
+    "vespers": {
+      "gospel": "Matthew 9:18-26",
+      "psalm": "Psalm 33:4-5"
+    }
+  },
+  "Thout|Second": {
+    "liturgy": {
+      "gospel": "Luke 10:21-28",
+      "psalm": "Psalm 21:1-2"
+    },
+    "matins": {
+      "gospel": "Mark 1:35-39",
+      "psalm": "Psalm 8:1,4"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:38-41",
+      "psalm": "Psalm 7:10-11"
+    }
+  },
+  "Thout|Third": {
+    "liturgy": {
+      "gospel": "Luke 19:1-10",
+      "psalm": "Psalm 18:46,49"
+    },
+    "matins": {
+      "gospel": "Matthew 8:5-13",
+      "psalm": "Psalm 9:10-11"
+    },
+    "vespers": {
+      "gospel": "Mark 1:29-34",
+      "psalm": "Psalm 9:1-2"
+    }
+  },
+  "Tobi|1": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Tobi|10": {
+    "liturgy": {
+      "gospel": "Luke 3:1-18",
+      "psalm": "Psalm 45:2"
+    },
+    "matins": {
+      "gospel": "John 3:22-29",
+      "psalm": "Psalm 42:7-8"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:12-22",
+      "psalm": "Psalm 42:2 & Psalm 42:11"
+    }
+  },
+  "Tobi|11": {
+    "liturgy": {
+      "gospel": "John 1:18-34",
+      "psalm": "Psalm 118:26 & Psalm 118:28"
+    },
+    "matins": {
+      "gospel": "Mark 1:1-11",
+      "psalm": "Psalm 29:3-4"
+    },
+    "vespers": {
+      "gospel": "Matthew 3:1-12",
+      "psalm": "Psalm 42:6 & Psalm 42:11"
+    }
+  },
+  "Tobi|12": {
+    "liturgy": {
+      "gospel": "John 1:35-51",
+      "psalm": "Psalm 104:1-2"
+    },
+    "matins": {
+      "gospel": "Matthew 3:13-17",
+      "psalm": "Psalm 34:11 & Psalm 34:5"
+    },
+    "vespers": {
+      "gospel": "Luke 3:21-22",
+      "psalm": "Psalm 42:1 & Psalm 42:6"
+    }
+  },
+  "Tobi|13": {
+    "liturgy": {
+      "gospel": "John 2:1-11",
+      "psalm": "Psalm 77:14-16"
+    },
+    "matins": {
+      "gospel": "John 4:43-54",
+      "psalm": "Psalm 104:15 & Psalm 104:24"
+    },
+    "vespers": {
+      "gospel": "Matthew 19:1-12",
+      "psalm": "Psalm 4:7-8"
+    }
+  },
+  "Tobi|15": {
+    "liturgy": {
+      "gospel": "Matthew 23:14-36",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Matthew 17:1-9",
+      "psalm": "Psalm 105:26-27 & Psalm 105:45"
+    },
+    "vespers": {
+      "gospel": "Luke 11:37-51",
+      "psalm": "Psalm 105:14-15"
+    }
+  },
+  "Tobi|17": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 92:12-13"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 92:10 & Psalm 92:14 & Psalm 92:15"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 112:6-7 & Psalm 112:9"
+    }
+  },
+  "Tobi|18": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Tobi|19": {
+    "liturgy": {
+      "gospel": "Luke 21:12-19",
+      "psalm": "Psalm 66:12-14"
+    },
+    "matins": {
+      "gospel": "Mark 8:34-38 & Mark 9:1",
+      "psalm": "Psalm 113:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 4:3 & Psalm 4:6-7"
+    }
+  },
+  "Tobi|2": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Tobi|20": {
+    "liturgy": {
+      "gospel": "Luke 10:1-20",
+      "psalm": "Psalm 21:3 & Psalm 21:5"
+    },
+    "matins": {
+      "gospel": "John 12:20-26",
+      "psalm": "Psalm 34:19-20"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:24-33",
+      "psalm": "Psalm 5:11-12"
+    }
+  },
+  "Tobi|21": {
+    "liturgy": {
+      "gospel": "Luke 1:39-56",
+      "psalm": "Psalm 45:12-13"
+    },
+    "matins": {
+      "gospel": "Matthew 12:35-50",
+      "psalm": "Psalm 48:8 & Psalm 48:1"
+    },
+    "vespers": {
+      "gospel": "Luke 10:38-42",
+      "psalm": "Psalm 87:3 & Psalm 87:5 & Psalm 87:7"
+    }
+  },
+  "Tobi|22": {
+    "liturgy": {
+      "gospel": "Luke 12:32-44",
+      "psalm": "Psalm 34:19 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Luke 19:11-19",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 25:14-23",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Tobi|23": {
+    "liturgy": {
+      "gospel": "John 16:20-33",
+      "psalm": "Psalm 99:6-7"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 89:19-21"
+    }
+  },
+  "Tobi|24": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Tobi|25": {
+    "liturgy": {
+      "gospel": "Luke 16:1-12",
+      "psalm": "Psalm 37:30-31"
+    },
+    "matins": {
+      "gospel": "Mark 13:33-37",
+      "psalm": "Psalm 37:17-18 & Psalm 37:29"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:42-47",
+      "psalm": "Psalm 65:4-5"
+    }
+  },
+  "Tobi|26": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 33:1 & Psalm 33:12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 32:11 & Psalm 33:1 & Psalm 32:6"
+    }
+  },
+  "Tobi|27": {
+    "liturgy": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "matins": {
+      "gospel": "Matthew 10:34-42",
+      "psalm": "Psalm 5:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:24-28",
+      "psalm": "Psalm 4:6-8"
+    }
+  },
+  "Tobi|28": {
+    "liturgy": {
+      "gospel": "Luke 11:53-54 & Luke 12:1-12",
+      "psalm": "Psalm 34:19-20"
+    },
+    "matins": {
+      "gospel": "Mark 13:9-13",
+      "psalm": "Psalm 97:11-12"
+    },
+    "vespers": {
+      "gospel": "Matthew 10:16-23",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    }
+  },
+  "Tobi|29": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Tobi|3": {
+    "liturgy": {
+      "gospel": "Matthew 2:13-23",
+      "psalm": "Psalm 113:1-2"
+    },
+    "matins": {
+      "gospel": "Matthew 18:10-20",
+      "psalm": "Psalm 119:130 & Psalm 119:141"
+    },
+    "vespers": {
+      "gospel": "Matthew 18:1-7",
+      "psalm": "Psalm 115:12-13"
+    }
+  },
+  "Tobi|30": {
+    "liturgy": {
+      "gospel": "Matthew 25:1-13",
+      "psalm": "Psalm 45:14-15"
+    },
+    "matins": {
+      "gospel": "John 4:15-24",
+      "psalm": "Psalm 8:2-3"
+    },
+    "vespers": {
+      "gospel": "Matthew 26:6-13",
+      "psalm": "Psalm 68:25-26"
+    }
+  },
+  "Tobi|4": {
+    "liturgy": {
+      "gospel": "John 21:15-25",
+      "psalm": "Psalm 139:17-18"
+    },
+    "matins": {
+      "gospel": "John 1:1-17",
+      "psalm": "Psalm 45:1-2"
+    },
+    "vespers": {
+      "gospel": "John 15:7-16",
+      "psalm": "Psalm 19:1 & Psalm 19:4"
+    }
+  },
+  "Tobi|5": {
+    "liturgy": {
+      "gospel": "Matthew 12:9-23",
+      "psalm": "Psalm 45:3-4"
+    },
+    "matins": {
+      "gospel": "Luke 12:4-12",
+      "psalm": "Psalm 68:35 & Psalm 68:3"
+    },
+    "vespers": {
+      "gospel": "Matthew 8:5-13",
+      "psalm": "Psalm 18:34 & Psalm 18:39"
+    }
+  },
+  "Tobi|6": {
+    "liturgy": {
+      "gospel": "Luke 2:21-39",
+      "psalm": "Psalm 50:14 & Psalm 50:23"
+    },
+    "matins": {
+      "gospel": "Luke 2:40-52",
+      "psalm": "Psalm 66:13-15"
+    },
+    "vespers": {
+      "gospel": "Luke 2:15-20",
+      "psalm": "Psalm 116:16-19"
+    }
+  },
+  "Tobi|7": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 110:4-6"
+    },
+    "vespers": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 132:9-10 & Psalm 132:17-18"
+    }
+  },
+  "Tobi|8": {
+    "liturgy": {
+      "gospel": "John 10:1-16",
+      "psalm": "Psalm 107:32 & Psalm 107:41-42"
+    },
+    "matins": {
+      "gospel": "John 15:17-25",
+      "psalm": "Psalm 73:23-24 & Psalm 73:28 & Psalm 9:14"
+    },
+    "vespers": {
+      "gospel": "Matthew 16:13-19",
+      "psalm": "Psalm 110:4 & Psalm 110:7"
+    }
+  },
+  "Tobi|9": {
+    "liturgy": {
+      "gospel": "Matthew 4:23-25 & Matthew 5:1-16",
+      "psalm": "Psalm 1:1"
+    },
+    "matins": {
+      "gospel": "Luke 6:17-23",
+      "psalm": "Psalm 132:1-2 & Psalm 132:9-10"
+    },
+    "vespers": {
+      "gospel": "Matthew 24:14-23",
+      "psalm": "Psalm 112:1-2"
+    }
+  },
+  "Tobi|First": {
+    "liturgy": {
+      "gospel": "Matthew 2:13-23",
+      "psalm": "Psalm 98:2-3"
+    },
+    "matins": {
+      "gospel": "Luke 4:31-37",
+      "psalm": "Psalm 93:1-2"
+    },
+    "vespers": {
+      "gospel": "Luke 4:40-44",
+      "psalm": "Psalm 47:1-2"
+    }
+  },
+  "Tobi|Fourth": {
+    "liturgy": {
+      "gospel": "John 9:1-38",
+      "psalm": "Psalm 36:9-10"
+    },
+    "matins": {
+      "gospel": "John 6:47-58",
+      "psalm": "Psalm 88:7 & Psalm 88:18"
+    },
+    "vespers": {
+      "gospel": "John 5:31-46",
+      "psalm": "Psalm 78:20 & Psalm 78:23"
+    }
+  },
+  "Tobi|Second": {
+    "liturgy": {
+      "gospel": "Luke 11:27-36",
+      "psalm": "Psalm 84:7 & Psalm 65:2"
+    },
+    "matins": {
+      "gospel": "Mark 3:7-12",
+      "psalm": "Psalm 97:1-2"
+    },
+    "vespers": {
+      "gospel": "Matthew 14:22-36",
+      "psalm": "Psalm 98:3 & Psalm 98:9"
+    }
+  },
+  "Tobi|Third": {
+    "liturgy": {
+      "gospel": "John 3:22-36",
+      "psalm": "Psalm 66:12 & Psalm 66:8"
+    },
+    "matins": {
+      "gospel": "John 3:1-21",
+      "psalm": "Psalm 97:6 & Psalm 97:4"
+    },
+    "vespers": {
+      "gospel": "John 5:1-18",
+      "psalm": "Psalm 77:18-19"
+    }
+  }
+}

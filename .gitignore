@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Build output (output/) and downloaded/derived caches (.cache/)
+*.pdf
+offline_*.sqlite3
+.cache/
+
+# macOS
+.DS_Store
