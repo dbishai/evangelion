@@ -51,16 +51,17 @@ body {
   /* One px taller than the viewport (and *not* overflow:hidden) on purpose --
      Mobile Safari only shrinks its address bar in response to an actual
      scroll, and a page with no scrollable overflow at all never gives it
-     one, so the bar stays permanently expanded. This gives the page.js
-     scroll nudge somewhere to go; overscroll-behavior keeps that sliver
-     from turning into a visible rubber-band bounce. */
+     one, so the bar stays permanently expanded. This gives the app.js
+     scroll nudge somewhere to go. (Deliberately no overscroll-behavior
+     override here -- it suppresses the same scroll-began signal Safari's
+     chrome-collapse animation listens for, which defeated the nudge
+     entirely.) */
   min-height: calc(100dvh + 1px);
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 10px;
   overflow-x: hidden;
-  overscroll-behavior-y: none;
 }
 
 main {
